@@ -4,5 +4,7 @@ namespace Animal
 	{
 		public int HeartBeat{get; private set;} 
 		public int BodyTemprature;
+		
+		//And there is a bug.
 	}
 }
